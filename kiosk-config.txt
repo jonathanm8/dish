@@ -1,0 +1,21 @@
+kiosk_config=http://kiosk.techstormit.com/kiosk-config.txt
+connection=wifi
+dhcp=yes
+wifi_encryption=wpa
+wpa_password=spaguest
+ssid_name=Guest_net
+proxy=
+browser=firefox
+dpms_idle=30
+homepage=https://start.duckduckgo.com/?kae=d
+session_idle=10
+scheduled_action=Sunday-02:00 action:reboot
+right_mouse_click=yes
+root_password=OOBK10sk@dmin
+rtc_wake=Monday-04:00 Tuesday-04:00 Wednesday-04:00 Thursday-04:00 Friday-04:00 Saturday-04:00 Sunday-04:00
+search_engine=duckduckgo
+timezone=US/Eastern
+additional_components=uefi.zip 08-ssh.xzm
+shutdown_menu=reboot restart-session
+wallpaper=http://kiosk.techstormit.com/Fiber-IT.jpg
+
