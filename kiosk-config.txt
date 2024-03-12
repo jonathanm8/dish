@@ -1,4 +1,4 @@
-kiosk_config=http://kiosk.techstormit.com/kiosk-config.txt
+kiosk_config=https://raw.githubusercontent.com/jonathanm8/dish/main/kiosk-config.txt
 connection=wifi
 dhcp=yes
 wifi_encryption=wpa
@@ -17,5 +17,5 @@ search_engine=duckduckgo
 timezone=US/Eastern
 additional_components=uefi.zip 08-ssh.xzm
 shutdown_menu=reboot restart-session
-wallpaper=http://kiosk.techstormit.com/Fiber-IT.jpg
+wallpaper=https://raw.githubusercontent.com/jonathanm8/dish/main/Fiber-IT.jpg
 
